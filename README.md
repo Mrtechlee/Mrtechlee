@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eddyleegh
+- 👋 Hi, I’m @Edward Gritcode Loen khoury
 - 👀 I’m interested in coding and programing
-- 🌱 I’m currently learning programing
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any job in this line
 - 📫 How to reach me +233 500948291 or bookeddyleegh@gmail.com
 
