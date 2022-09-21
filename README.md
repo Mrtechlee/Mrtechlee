@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edward Gritcode Loen khoury
+- 👋 Hi, I’m @Edward Gredcode Loen khoury
 - 👀 I’m interested in coding and programing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any job in this line
